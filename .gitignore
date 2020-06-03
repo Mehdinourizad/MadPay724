@@ -1,0 +1,11 @@
+.vs
+MadPay724.Common\bin
+MadPay724.Common\obj
+MadPay724.DataAccessLayer\bin
+MadPay724.DataAccessLayer\obj
+MadPay724.Repositories\bin
+MadPay724.Repositories\obj
+MadPay724.Services\bin
+MadPay724.Services\obj
+MadPay724.Web\bin
+MadPay724.Web\obj

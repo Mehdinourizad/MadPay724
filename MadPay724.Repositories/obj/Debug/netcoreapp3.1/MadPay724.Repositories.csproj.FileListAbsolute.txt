@@ -1,0 +1,14 @@
+D:\MyProject\Payment\MadPay724\MadPay724.Repositories\bin\Debug\netcoreapp3.1\MadPay724.Repositories.deps.json
+D:\MyProject\Payment\MadPay724\MadPay724.Repositories\bin\Debug\netcoreapp3.1\MadPay724.Repositories.dll
+D:\MyProject\Payment\MadPay724\MadPay724.Repositories\bin\Debug\netcoreapp3.1\MadPay724.Repositories.pdb
+D:\MyProject\Payment\MadPay724\MadPay724.Repositories\bin\Debug\netcoreapp3.1\MadPay724.Common.dll
+D:\MyProject\Payment\MadPay724\MadPay724.Repositories\bin\Debug\netcoreapp3.1\MadPay724.DataAccessLayer.dll
+D:\MyProject\Payment\MadPay724\MadPay724.Repositories\bin\Debug\netcoreapp3.1\MadPay724.Common.pdb
+D:\MyProject\Payment\MadPay724\MadPay724.Repositories\bin\Debug\netcoreapp3.1\MadPay724.DataAccessLayer.pdb
+D:\MyProject\Payment\MadPay724\MadPay724.Repositories\obj\Debug\netcoreapp3.1\MadPay724.Repositories.csprojAssemblyReference.cache
+D:\MyProject\Payment\MadPay724\MadPay724.Repositories\obj\Debug\netcoreapp3.1\MadPay724.Repositories.csproj.CoreCompileInputs.cache
+D:\MyProject\Payment\MadPay724\MadPay724.Repositories\obj\Debug\netcoreapp3.1\MadPay724.Repositories.AssemblyInfoInputs.cache
+D:\MyProject\Payment\MadPay724\MadPay724.Repositories\obj\Debug\netcoreapp3.1\MadPay724.Repositories.AssemblyInfo.cs
+D:\MyProject\Payment\MadPay724\MadPay724.Repositories\obj\Debug\netcoreapp3.1\MadPay724.Repositories.csproj.CopyComplete
+D:\MyProject\Payment\MadPay724\MadPay724.Repositories\obj\Debug\netcoreapp3.1\MadPay724.Repositories.dll
+D:\MyProject\Payment\MadPay724\MadPay724.Repositories\obj\Debug\netcoreapp3.1\MadPay724.Repositories.pdb
